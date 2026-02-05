@@ -1,0 +1,295 @@
+label,region
+1,Area 45 (IFG) right
+2,Area 44 (IFG) right
+3,Area Fo1 (OFC) right
+4,Area Fo2 (OFC) right
+5,Area Fo3 (OFC) right
+6,Area hOc5 (LOC) right
+7,"Area hOc2 (V2, 18) right"
+8,"Area hOc1 (V1, 17, CalcS) right"
+9,Area hOc4v (LingG) right
+10,Area hOc3v (LingG) right
+11,Area TE 1.0 (HESCHL) right
+12,Area TE 2.1 (STG) right
+13,Area TPJ (STG/SMG) right
+14,Area TE 1.2 (HESCHL) right
+15,Area TE 3 (STG) right
+16,Area TE 1.1 (HESCHL) right
+17,Area TE 2.2 (STG) right
+18,Area 33 (ACC) right
+19,Area s32 (sACC) right
+20,Area p32 (pACC) right
+21,Area Id2 (Insula) right
+22,Area Id3 (Insula) right
+23,CA2 (Hippocampus) right
+24,CA3 (Hippocampus) right
+25,Entorhinal Cortex right
+26,DG (Hippocampus) right
+27,HC-Parasubiculum (Hippocampus) right
+28,HC-Presubiculum (Hippocampus) right
+29,HC-Prosubiculum (Hippocampus) right
+30,CA1 (Hippocampus) right
+31,HC-Subiculum (Hippocampus) right
+32,HATA (Hippocampus) right
+33,Area OP4 (POperc) right
+34,Area OP1 (POperc) right
+35,Area OP2 (POperc) right
+36,Area OP3 (POperc) right
+37,Area FG2 (FusG) right
+38,Area FG1 (FusG) right
+39,Area PGp (IPL) right
+40,Area PFt (IPL) right
+41,Area PGa (IPL) right
+42,Area PFop (IPL) right
+43,Area PFm (IPL) right
+44,Area PFcm (IPL) right
+45,Area Ig2 (Insula) right
+46,Area Ig1 (Insula) right
+47,Area Id1 (Insula) right
+48,Area hOc4lp (LOC) right
+49,Area hOc4la (LOC) right
+50,Area hOc4d (Cuneus) right
+51,Area hOc3d (Cuneus) right
+52,Area 4p (PreCG) right
+53,Area 4a (PreCG) right
+54,Area 1 (PostCG) right
+55,Area 3a (PostCG) right
+56,Area 3b (PostCG) right
+57,Area hIP1 (IPS) right
+58,Area hIP2 (IPS) right
+59,Area 5L (SPL) right
+60,Area 5M (SPL) right
+61,Area 7PC (SPL) right
+62,Area hIP3 (IPS) right
+63,Area 7A (SPL) right
+64,Area 7M (SPL) right
+65,Area 5Ci (SPL) right
+66,Area Id7 (Insula) right
+67,Area s24 (sACC) right
+68,Area 25 (sACC) right
+69,SF (Amygdala) right
+70,LB (Amygdala) right
+71,Area PF (IPL) right
+72,Area 7P (SPL) right
+73,Area Fp2 (FPole) right
+74,Area Fp1 (FPole) right
+75,Fastigial Nucleus (Cerebellum) right
+76,VTM (Amygdala) right
+77,Area p24ab (pACC) right
+78,Area p24c (pACC) right
+79,MF (Amygdala) right
+80,Area FG4 (FusG) right
+81,Area FG3 (FusG) right
+82,Dorsal Dentate Nucleus (Cerebellum) right
+83,Ventral Dentate Nucleus (Cerebellum) right
+84,Area TeI (STG) right
+85,Area TI (STG) right
+86,Area IFS1 (IFS) right
+87,Area IFS2 (IFS) right
+88,Area IFS3 (IFS) right
+89,Area IFS4 (IFS) right
+90,"Area IFJ1 (IFS,PreCS) right"
+91,"Area IFJ2 (IFS,PreCS) right"
+92,Interposed Nucleus (Cerebellum) right
+93,Area 2 (PostCS) right
+94,Ch 4 (Basal Forebrain) right
+95,Area STS1 (STS) right
+96,Area STS2 (STS) right
+97,Area Op8 (Frontal Operculum) right
+98,Area Op9 (Frontal Operculum) right
+99,Ch 123 (Basal Forebrain) right
+100,Area 6d1 (PreCG) right
+101,Area 6d2 (PreCG) right
+102,Area 6d3 (SFS) right
+103,CM (Amygdala) right
+104,Area hOc6 (POS) right
+105,Area hIP6 (IPS) right
+106,Area hIP8 (IPS) right
+107,Area hIP4 (IPS) right
+108,Area hIP5 (IPS) right
+109,Area hIP7 (IPS) right
+110,Area hPO1 (POS) right
+111,"Area 6mp (SMA, mesial SFG) right"
+112,"Area 6ma (preSMA, mesial SFG) right"
+113,HC-Transsubiculum (Hippocampus) right
+114,Area Fo4 (OFC) right
+115,Area Fo5 (OFC) right
+116,Area Fo6 (OFC) right
+117,Area Fo7 (OFC) right
+118,Area 8d1 (SFG) right
+119,Area 8d2 (SFG) right
+120,Area 8v2 (MFG) right
+121,Area 8v1 (MFG) right
+122,Area Ig3 (Insula) right
+123,Area Id4 (Insula) right
+124,Area Id5 (Insula) right
+125,Area Ia1 (Insula) right
+126,Area Id6 (Insula) right
+127,Area Op5 (Frontal Operculum) right
+128,Area Op6 (Frontal Operculum) right
+129,Area Op7 (Frontal Operculum) right
+130,Area Ph1 (PhG) right
+131,Area Ph2 (PhG) right
+132,Area Ph3 (PhG) right
+133,Area CoS1 (CoS) right
+134,CGL (Metathalamus) right
+135,CGM (Metathalamus) right
+136,Area Id9 (Insula) right
+137,Area Ia3 (Insula) right
+138,Area Ia2 (Insula) right
+139,Area Id8 (Insula) right
+140,Area Id10 (Insula) right
+141,BST (Bed Nucleus) right
+142,Frontal-I (GapMap) right
+143,Frontal-II (GapMap) right
+144,Temporal-to-Parietal (GapMap) right
+145,Frontal-to-Occipital (GapMap) right
+146,Frontal-to-Temporal-I (GapMap) right
+147,Frontal-to-Temporal-II (GapMap) right
+148,Area 45 (IFG) left
+149,Area 44 (IFG) left
+150,Area Fo1 (OFC) left
+151,Area Fo2 (OFC) left
+152,Area Fo3 (OFC) left
+153,Area hOc5 (LOC) left
+154,"Area hOc2 (V2, 18) left"
+155,"Area hOc1 (V1, 17, CalcS) left"
+156,Area hOc4v (LingG) left
+157,Area hOc3v (LingG) left
+158,Area TE 1.0 (HESCHL) left
+159,Area TE 2.1 (STG) left
+160,Area TPJ (STG/SMG) left
+161,Area TE 1.2 (HESCHL) left
+162,Area TE 3 (STG) left
+163,Area TE 1.1 (HESCHL) left
+164,Area TE 2.2 (STG) left
+165,Area 33 (ACC) left
+166,Area s32 (sACC) left
+167,Area p32 (pACC) left
+168,Area Id2 (Insula) left
+169,Area Id3 (Insula) left
+170,CA2 (Hippocampus) left
+171,CA3 (Hippocampus) left
+172,Entorhinal Cortex left
+173,DG (Hippocampus) left
+174,HC-Parasubiculum (Hippocampus) left
+175,HC-Presubiculum (Hippocampus) left
+176,HC-Prosubiculum (Hippocampus) left
+177,CA1 (Hippocampus) left
+178,HC-Subiculum (Hippocampus) left
+179,HATA (Hippocampus) left
+180,Area OP4 (POperc) left
+181,Area OP1 (POperc) left
+182,Area OP2 (POperc) left
+183,Area OP3 (POperc) left
+184,Area FG2 (FusG) left
+185,Area FG1 (FusG) left
+186,Area PGp (IPL) left
+187,Area PFt (IPL) left
+188,Area PGa (IPL) left
+189,Area PFop (IPL) left
+190,Area PFm (IPL) left
+191,Area PFcm (IPL) left
+192,Area Ig2 (Insula) left
+193,Area Ig1 (Insula) left
+194,Area Id1 (Insula) left
+195,Area hOc4lp (LOC) left
+196,Area hOc4la (LOC) left
+197,Area hOc4d (Cuneus) left
+198,Area hOc3d (Cuneus) left
+199,Area 4p (PreCG) left
+200,Area 4a (PreCG) left
+201,Area 1 (PostCG) left
+202,Area 3a (PostCG) left
+203,Area 3b (PostCG) left
+204,Area hIP1 (IPS) left
+205,Area hIP2 (IPS) left
+206,Area 5L (SPL) left
+207,Area 5M (SPL) left
+208,Area 7PC (SPL) left
+209,Area hIP3 (IPS) left
+210,Area 7A (SPL) left
+211,Area 7M (SPL) left
+212,Area 5Ci (SPL) left
+213,Area Id7 (Insula) left
+214,Area s24 (sACC) left
+215,Area 25 (sACC) left
+216,SF (Amygdala) left
+217,LB (Amygdala) left
+218,Area PF (IPL) left
+219,Area 7P (SPL) left
+220,Area Fp2 (FPole) left
+221,Area Fp1 (FPole) left
+222,Fastigial Nucleus (Cerebellum) left
+223,VTM (Amygdala) left
+224,Area p24ab (pACC) left
+225,Area p24c (pACC) left
+226,MF (Amygdala) left
+227,Area FG4 (FusG) left
+228,Area FG3 (FusG) left
+229,Dorsal Dentate Nucleus (Cerebellum) left
+230,Ventral Dentate Nucleus (Cerebellum) left
+231,Area TeI (STG) left
+232,Area TI (STG) left
+233,Area IFS1 (IFS) left
+234,Area IFS2 (IFS) left
+235,Area IFS3 (IFS) left
+236,Area IFS4 (IFS) left
+237,"Area IFJ1 (IFS,PreCS) left"
+238,"Area IFJ2 (IFS,PreCS) left"
+239,Interposed Nucleus (Cerebellum) left
+240,Area 2 (PostCS) left
+241,Ch 4 (Basal Forebrain) left
+242,Area STS1 (STS) left
+243,Area STS2 (STS) left
+244,Area Op8 (Frontal Operculum) left
+245,Area Op9 (Frontal Operculum) left
+246,Ch 123 (Basal Forebrain) left
+247,Area 6d1 (PreCG) left
+248,Area 6d2 (PreCG) left
+249,Area 6d3 (SFS) left
+250,CM (Amygdala) left
+251,Area hOc6 (POS) left
+252,Area hIP6 (IPS) left
+253,Area hIP8 (IPS) left
+254,Area hIP4 (IPS) left
+255,Area hIP5 (IPS) left
+256,Area hIP7 (IPS) left
+257,Area hPO1 (POS) left
+258,"Area 6mp (SMA, mesial SFG) left"
+259,"Area 6ma (preSMA, mesial SFG) left"
+260,HC-Transsubiculum (Hippocampus) left
+261,Area Fo4 (OFC) left
+262,Area Fo5 (OFC) left
+263,Area Fo6 (OFC) left
+264,Area Fo7 (OFC) left
+265,Area 8d1 (SFG) left
+266,Area 8d2 (SFG) left
+267,Area 8v2 (MFG) left
+268,Area 8v1 (MFG) left
+269,Area Ig3 (Insula) left
+270,Area Id4 (Insula) left
+271,Area Id5 (Insula) left
+272,Area Ia1 (Insula) left
+273,Area Id6 (Insula) left
+274,Area Op5 (Frontal Operculum) left
+275,Area Op6 (Frontal Operculum) left
+276,Area Op7 (Frontal Operculum) left
+277,Area Ph1 (PhG) left
+278,Area Ph2 (PhG) left
+279,Area Ph3 (PhG) left
+280,Area CoS1 (CoS) left
+281,CGL (Metathalamus) left
+282,CGM (Metathalamus) left
+283,Area Id9 (Insula) left
+284,Area Ia3 (Insula) left
+285,Area Ia2 (Insula) left
+286,Area Id8 (Insula) left
+287,Area Id10 (Insula) left
+288,BST (Bed Nucleus) left
+289,Frontal-I (GapMap) left
+290,Frontal-II (GapMap) left
+291,Temporal-to-Parietal (GapMap) left
+292,Frontal-to-Occipital (GapMap) left
+293,Frontal-to-Temporal-I (GapMap) left
+294,Frontal-to-Temporal-II (GapMap) left
