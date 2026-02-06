@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/juaml/junifer-data-hooks
+    rev: e53cfed516b4b1dc81b24bfb5fd90768714cd389
+    hooks:
+      - id: check-julich-brain-versions

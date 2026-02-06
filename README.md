@@ -14,3 +14,19 @@ To update, install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 ```console
 just julich-brain
 ```
+
+## `pre-commit` hooks
+
+Install by:
+
+```console
+prek install --install-hooks
+```
+
+Run by:
+
+```console
+prek run --all-files
+```
+
+For more information, check [here](https://github.com/juaml/junifer-data-hooks).
