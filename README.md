@@ -15,6 +15,17 @@ To update, install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 just julich-brain
 ```
 
+### Brainnetome
+
+`parcellations/Brainnetome/labels.csv` (one row per label) is generated from the
+subregions table distributed with the atlas (`BNA_subregions.xlsx`). To update,
+install [uv](https://docs.astral.sh/uv/getting-started/installation/) and
+[just](https://just.systems/man/en/packages.html) and run:
+
+```console
+just brainnetome
+```
+
 ## `pre-commit` hooks
 
 Install by:
